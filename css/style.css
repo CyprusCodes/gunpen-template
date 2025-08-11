@@ -619,12 +619,12 @@ blockquote cite:before {
 }
 .logo-wrapper .logo h2 {
     font-family: 'Oswald', sans-serif;
-    font-size: 45px;
+    font-size: 30px;
     font-weight: 400;
     display: block;
     width: 100%;
     position: relative;
-    color: #b19777;
+    color: #ca3228;
     letter-spacing: 9px;
     margin-bottom: 0;
 }
